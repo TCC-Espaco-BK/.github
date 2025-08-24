@@ -1,5 +1,8 @@
 ### Espaço BK app
-<img width="225" height="225" alt="images" src="https://github.com/user-attachments/assets/a752197d-3666-4d7a-9030-6d5246ba4945" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a752197d-3666-4d7a-9030-6d5246ba4945" alt="images" width="225" height="225" />
+</p>
+
 
 Repositório do trabalho de conclusão de curso para a loja Espaço BK.
 
