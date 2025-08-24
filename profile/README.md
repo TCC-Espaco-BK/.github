@@ -11,7 +11,7 @@ Repositório do trabalho de conclusão de curso para a loja Espaço BK.
 - [Instalação](#Instalação)
 
 ## Sobre o Projeto
-Este projeto foi desenvolvido como o projeto final para a matéria de Trabalho de conclusão do curso de Ciência da computação pelos alunos Caetano Casagrande Castro e Miguel Serea com orientações da doutora Lidiane Visintin.
+Este projeto foi desenvolvido como o projeto final para a matéria de "Trabalho de conclusão do curso" de Ciência da computação pelos alunos Caetano Casagrande Castro e Miguel Serea com orientações da doutora Lidiane Visintin.
 O sistema foi criado como um facilitador para a gestão de atividade, contato com o cliente e gerenciamento de colaboradores por meio da loja "Espaço BK". 
 
 ## Funcionalidades
@@ -83,9 +83,8 @@ O sistema foi criado como um facilitador para a gestão de atividade, contato co
 - Armazenamento de imagens compatíveis (JPG/PNG).
 
 ## Estrutura do Projeto
-- Front-end:
-- Back-end:
-- Banco de dados:
+- Front-end: React, TailwindCSS, CSS, HTML, JavaScript, TypeScript, NodeJS.
+- Back-end: Python, Django, Mongosh. 
 
 ## Instalação, execução e pré-requisitos
 - Pré-requisitos:
