@@ -25,7 +25,6 @@ O sistema foi criado como um facilitador para a gestão de atividade, contato co
 - [Gestão de Metas Mensais](#gestão-de-metas-mensais)
 - [Gestão de Clientes](#gestão-de-clientes)
 - [Gestão de Vínculos Cliente-Funcionário](#gestão-de-vínculos-cliente-funcionário)
-- [Gestão de Histórico de Compras](#gestão-de-histórico-de-compras)
 - [Gestão de Campanhas](#gestão-de-campanhas)
 - [Eventos do Sistema](#eventos-do-sistema)
 - [Importações](#importações)
@@ -59,30 +58,25 @@ O sistema foi criado como um facilitador para a gestão de atividade, contato co
 - Associação, edição, exclusão e visualização de vínculos.
 - Permite que colaboradores vejam apenas seus clientes vinculados.
 
-# 6. Gestão de Histórico de Compras
-- Importação de histórico de compras.
-- Prevenção de duplicidade.
-- Visualização de histórico por colaboradores.
-
-# 7. Gestão de Campanhas
+# 6. Gestão de Campanhas
 - Cadastro, edição, exclusão e visualização de campanhas.
 - Upload de imagens (JPG, PNG) para campanhas.
 - Definição de data de validade.
 - Envio de campanhas para colaboradores.
 
-# 8. Eventos do Sistema
+# 7. Eventos do Sistema
 - Notificação de aniversários de clientes.
 - Avisos de cashback (nos dias 5, 15 e 3 dias antes do final do mês).
 
-# 9. Importações
+# 8. Importações
 - Importação de clientes e histórico de compras.
 - Atualização de dados evitando duplicidade.
 
-# 10. Login e Autenticação
+# 9. Login e Autenticação
 - Acesso via usuário e senha.
 - Perfis com permissões diferenciadas.
 
-# 11. Requisitos Não Funcionais
+# 10. Requisitos Não Funcionais
 - Sistema responsivo (desktop e mobile).
 - Segurança via autenticação.
 - Armazenamento de imagens compatíveis (JPG/PNG).
